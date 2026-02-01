@@ -10,6 +10,16 @@ Combining deep neural networks and Gaussian processes for asphalt rheological in
 Results in Engineering, 26, 105629.**  
 https://doi.org/10.1016/j.rineng.2025.105629
 
+@article{Khadijeh2025Hybrid,
+  title={Combining deep neural networks and Gaussian processes for asphalt rheological insights},
+  author={Khadijeh, Mahmoud and Kasbergen, Cor and Erkens, Sandra and Varveri, Aikaterini},
+  journal={Results in Engineering},
+  volume={26},
+  pages={105629},
+  year={2025},
+  doi={10.1016/j.rineng.2025.105629}
+}
+
 ## Overview
 
 Understanding the rheological behavior of asphalt binders and mastics is essential for designing durable pavements. This project presents a **hybrid machine learning framework** that combines:
